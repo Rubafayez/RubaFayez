@@ -73,7 +73,41 @@ automated pipelines, and the glue that makes them dependable.
 
 ## Featured Work
 
-<!-- PROJECTS -->
+### [🤖 n8n AI Automations](https://github.com/Rubafayez/n8n-ai-automations)
+Twenty-one production-style automation workflows putting LLMs to work in real business
+processes — WhatsApp and Telegram assistants, autonomous lead-generation pipelines,
+and AI content production.
+`n8n` · `OpenAI` · `Gemini` · `Groq` · `Apify`
+
+### [🗣 Taleeq — Speech Therapy Game](https://github.com/Rubafayez/taleeq-speech-therapy-game)
+A mobile game that helps children improve speech fluency through psychodrama and Smith
+Accent Breathing, with a parent dashboard carrying session reports and audio recordings.
+`Unity 6` · `C#` · `Firebase` · `Arabic RTL`
+
+### [🌿 Yaqada'a — Health & Habit Tracker](https://github.com/Rubafayez/yaqadaa-habit-tracker)
+A habit tracker built around AI-generated wellness challenges and a community layer,
+because habits stick when they are social. Bilingual Arabic/English across Android, iOS, and web.
+`Flutter` · `Dart` · `Firebase` · `OpenAI`
+
+### [💳 Credit Card Fraud Detection](https://github.com/Rubafayez/credit-card-fraud-detection)
+Machine learning on data where fraud is 0.17% of records — SMOTE, XGBoost, and metrics that
+reflect real cost rather than accuracy theatre, plus an LLM layer that explains each decision.
+`Python` · `scikit-learn` · `XGBoost` · `Groq`
+
+### [🎬 Movie Store — Full-Stack Platform](https://github.com/Rubafayez/movie-store-web-platform)
+An e-commerce platform with security as a first-class requirement: TLS end to end, hardened
+session cookies, route guards, and a Playwright end-to-end suite.
+`Angular` · `Spring Boot` · `PostgreSQL` · `Playwright`
+
+### [🔍 Search Engine — Inverted Index](https://github.com/Rubafayez/search-engine-inverted-index)
+A document search engine with every data structure written by hand — no collections framework —
+comparing a linked-list index against a BST index to make the complexity visible.
+`Java` · `Data Structures` · `Information Retrieval`
+
+### [🐝 BlueBee — Student Club Platform](https://github.com/Rubafayez/bluebee-student-clubs)
+A platform where university clubs publish activities and students register online, with three
+distinct roles and email-based password recovery.
+`PHP` · `MySQL` · `JavaScript`
 
 ---
 
