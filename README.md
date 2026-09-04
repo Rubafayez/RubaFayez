@@ -109,6 +109,17 @@ A platform where university clubs publish activities and students register onlin
 distinct roles and email-based password recovery.
 `PHP` · `MySQL` · `JavaScript`
 
+### [🧪 SmartPay — Quality Assurance & Test Planning](https://github.com/Rubafayez/smartpay-quality-assurance)
+A full quality plan for a fintech app integrating Nafath, Al Rajhi Bank, and Apple Pay —
+eight test levels, verification and validation suites, and quality metrics mapped to each
+development phase.
+`Software Testing` · `QA` · `McCall's Quality Factors`
+
+### [📋 Business Analysis Portfolio](https://github.com/Rubafayez/business-analysis-portfolio)
+Requirements engineering, BPMN process modelling, software maintenance with impact analysis,
+and usability evaluation across five projects.
+`Requirements Engineering` · `BPMN` · `UML` · `HCI`
+
 ---
 
 ## Experience
