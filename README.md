@@ -30,7 +30,7 @@ automated pipelines, and the glue that makes them dependable.
 - 🔭 Currently building **AI automation workflows** with n8n
 - 🌱 Deepening my work in **Generative AI on Azure** and **test automation**
 - 🧩 Interested in roles across **Business Analysis · QA · AI Engineering**
-- 📫 Reach me at **ruba.fayez5@gmail.com**
+- 📫 Reach me at **rub.afayez13@gmail.com**
 
 ---
 
