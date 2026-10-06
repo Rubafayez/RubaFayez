@@ -73,6 +73,19 @@ automated pipelines, and the glue that makes them dependable.
 
 ## Featured Work
 
+### [🧭 Kafu — Team Skills & Promotion Dashboard](https://github.com/Rubafayez/kafu) · [Live demo](https://kafu-app.netlify.app)
+A manager dashboard that shows which skills each team is missing, recommends who to hire or
+promote, and staffs projects by skill coverage. The numbers are computed in code; Gemini writes
+the hiring profile and the promotion plan, and reads CVs and project briefs. Built with a team
+at the BUILDx hackathon.
+`React` · `TypeScript` · `Gemini` · `Netlify Functions`
+
+### [🛡 Ta'man — Campus Lost & Found](https://github.com/Rubafayez/taman) · [Live demo](https://tamanrksu.netlify.app)
+A lost-and-found platform for King Saud University's campus: file a report from a photo,
+match lost and found items semantically with embeddings, and get an advisory check on a
+claimant's verification answer.
+`React` · `TypeScript` · `Supabase` · `Gemini`
+
 ### [🤖 n8n AI Automations](https://github.com/Rubafayez/n8n-ai-automations)
 Twenty-one production-style automation workflows putting LLMs to work in real business
 processes — WhatsApp and Telegram assistants, autonomous lead-generation pipelines,
